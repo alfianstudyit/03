@@ -15,4 +15,7 @@ int main() {
 	cout << "hasil konversi C to R : " << reamur << char(248) << "R" << endl;
 	fahrenhite = (celcius * 9.00 / 5.00) + 32;
 	cout << "hasil konversi C to F : " << fahrenhite << char(248) << "F" << endl;
+
+	system("pause");
+	return 0;
 }

@@ -29,4 +29,8 @@ int main() {
 	cin >> sisi_a >> sisi_b;
 	sisi_c = sqrt(pow(sisi_a, 2) + pow(sisi_b, 2));
 	cout << "sisi miring(c) adalah	: " << sisi_c << endl;
+
+	system("pause");
+	return 0;
+
 }
