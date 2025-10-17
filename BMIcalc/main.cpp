@@ -7,7 +7,7 @@ using namespace std;
 int main() {
 	cout << "BMI Calculator" << endl;
 	cout << "--------------" << endl;
-	cout << "Weight: kg\b\b\b\b\b\b\b";
+	cout << "Weight:   kg\b\b\b";
 	double weight;
 	cin >> weight;
 	cout << "Height: m\b\b\b\b\b\b\b";
